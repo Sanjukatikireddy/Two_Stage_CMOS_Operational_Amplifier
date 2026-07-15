@@ -1,5 +1,5 @@
 ##       --- Operating Point ---
-
+```
 V(n001):	 1.60021	 voltage
 V(n002):	 1.71859	 voltage
 V(n003):	 -0.856208	 voltage
@@ -48,3 +48,4 @@ Is(M5):	 -3.04394e-05	 device_current
 Is(M6):	 -7.22034e-05	 device_current
 Is(M7):	 -7.22034e-05	 device_current
 Is(M8):	 -3e-05	 device_current
+```
